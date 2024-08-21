@@ -11,15 +11,6 @@ def countNumberOfWays(s):
     return helper(s+1)
 
 
-
-
-
-
-
-
-
-
-
 # driver code
 n = 100000
 
